@@ -4,7 +4,7 @@
 <br><br>
 <img src='https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif'/>
 
-- 👨‍💻 All of my projects are available at [portfolio-using-react-ochre.vercel.app](portfolio-using-react-ochre.vercel.app)     
+- 👨‍💻 All of my projects are available at [portfolio-using-react-ochre.vercel.app](portfolio-using-react-ochre.vercel.app)      
      
 <h3 align="left">Connect with me:-</h3>  
 <p align="left">
