@@ -2,7 +2,6 @@
  <h1 align="center">Hi👋, I'm Midhun-T</h1>    
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300"> 
-<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" background-color='black' width="300"> 
 <br><br>             
 <img src='https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif'/>        
      
