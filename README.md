@@ -7,7 +7,7 @@
 <img src='https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif'/>        
      
 - 👨‍💻 All of my projects are available at [portfolio-using-react-ochre.vercel.app](portfolio-using-react-ochre.vercel.app)                
-           
+            
 <h3 align="left">Connect with me:</h3>       
 <p align="left">
 <a href="https://linkedin.com/in/midhun-t-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midhun-t-" height="30" width="40" /> </a>
